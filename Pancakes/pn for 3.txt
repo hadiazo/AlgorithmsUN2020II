@@ -1,0 +1,6 @@
+Min number of flips for 321: 1
+Min number of flips for 231: 2
+Min number of flips for 123: 0
+Min number of flips for 132: 3
+Min number of flips for 312: 2
+Min number of flips for 213: 1

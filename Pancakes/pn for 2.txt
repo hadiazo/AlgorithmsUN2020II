@@ -1,0 +1,2 @@
+Min number of flips for 21: 1
+Min number of flips for 12: 0
